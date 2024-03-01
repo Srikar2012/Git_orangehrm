@@ -161,6 +161,12 @@ public class Testcase1
 	}
 	return res;
 	}
+	
+	private void syso() 
+	{
+		System.out.println("how to say that complete");
 	}
+	}
+
 
 
